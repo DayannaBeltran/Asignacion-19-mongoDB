@@ -1,0 +1,9 @@
+com\mycompany\app\Dao\IProductoDAO.class
+com\mycompany\Config\MongoClientProvider.class
+com\mycompany\Exception\EntityNotFoundException.class
+com\mycompany\Exception\DaoException.class
+com\mycompany\app\App.class
+com\mycompany\Model\Producto.class
+com\mycompany\Model\Proveedor.class
+com\mycompany\Config\mongoConfig.class
+com\mycompany\Dao\mongo\ProductoDAO.class
